@@ -1,4 +1,6 @@
-matplotlib
-numpy
+streamlit
 pandas
+numpy
 scikit-learn
+scikit-plot
+matplotlib
